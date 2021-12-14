@@ -8,7 +8,7 @@
         <div class="row">
           <div class="col-md-8 d-flex"><!-- Textos da seção -->
             <div class="align-self-center">
-              <h1 class="display-4">JM Serviços & Soluções</h1>
+              <h1 class="display-4">Organic Marketing Access</h1>
               <p>
                 Deixe seu E-mail e o serviço que deseja e retornaremos com uma proposta
               </p>
@@ -152,8 +152,9 @@
             <p>
               <a href="">Home</a>
               <a href="">Beneficios</a>
-              <a href=""></a>
-              <a href=""></a>
+              <a href="">Controle de Acesso</a>
+              <a href="">Serviços Gerais</a>
+              <a href="">Segurança Eletrônica</a>
             </p>
           </div>
           <div class="col-md-4 d-flex justify-content-end">
