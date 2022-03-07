@@ -3,7 +3,7 @@
 
 
 @section('content')
-    <section class="home"><!-- Início seção home -->
+    <section id="home"><!-- Início seção home -->
       <div class="container">
         <div class="row">
           <div class="col-md-8 d-flex"><!-- Textos da seção -->
